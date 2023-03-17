@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-img {
+  background-image: url('https://clipartix.com/wp-content/uploads/2017/07/Cross-clip-art-with-transparent-background-free.jpg');
+}
