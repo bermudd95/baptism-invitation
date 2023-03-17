@@ -46,17 +46,17 @@ function App() {
           </h3>
           <div className='flex flex-col'>
             <h3 className='pb-0.5'>
-              79 Rexland Dr
+              9301 Cobble Mountain Rd
             </h3>
             <h3 className='pb-2'>
-              Bakersfield, CA 93307
+              Bakersfield, CA 93313
             </h3>
           </div>
           <h2 className='font-semibold pb-1'>
             Time:
           </h2>
           <h2>
-            Time
+            1 PM
           </h2>
         </div>
         <div className='w-[70%] m-5 p-5 border-2 border-gray-200 rounded-lg'>
