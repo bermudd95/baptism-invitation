@@ -56,7 +56,7 @@ function App() {
             Time:
           </h2>
           <h2>
-            1 PM
+            1:00 PM
           </h2>
         </div>
         <div className='w-[70%] m-5 p-5 border-2 border-gray-200 rounded-lg'>
