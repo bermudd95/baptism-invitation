@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="h-full bg-scroll bg-cover bg-center custom-img">
-      <div className='flex h-screen flex-col items-center justify-center bg-gradient-to-b from-emerald-400/80 to-blue-300/80'>
+      <div className='flex h-full flex-col items-center justify-center bg-gradient-to-b from-emerald-400/80 to-blue-300/80'>
         <div className='flex flex-col items-center'>
           <h1 className='text-3xl font-bold pt-6'>
             Join Me In Celebrating
