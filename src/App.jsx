@@ -42,7 +42,26 @@ function App() {
         </div>
         <div className='w-[70%] text-center border-t-2 border-gray-200 py-5'>
           <h3 className='font-semibold pb-1'>
-            Where:
+            Ceremony:
+          </h3>
+          <div className='flex flex-col'>
+            <h3 className='pb-0.5'>
+              79 Rexland Dr
+            </h3>
+            <h3 className='pb-2'>
+              Bakersfield, CA 93307
+            </h3>
+          </div>
+          <h2 className='font-semibold pb-1'>
+            Time:
+          </h2>
+          <h2>
+            10:00 AM
+          </h2>
+        </div>
+        <div className='w-[70%] text-center border-t-2 border-gray-200 py-5'>
+          <h3 className='font-semibold pb-1'>
+            After Party:
           </h3>
           <div className='flex flex-col'>
             <h3 className='pb-0.5'>
