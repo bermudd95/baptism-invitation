@@ -42,6 +42,16 @@ function App() {
         </div>
         <div className='w-[70%] text-center border-t-2 border-gray-200 py-5'>
           <h3 className='font-semibold pb-1'>
+            When:
+          </h3>
+          <div className='flex flex-col'>
+            <h3 className='pb-0.5'>
+              April 15, 2023
+            </h3>
+          </div>
+        </div>
+        <div className='w-[70%] text-center border-t-2 border-gray-200 py-5'>
+          <h3 className='font-semibold pb-1'>
             Ceremony:
           </h3>
           <div className='flex flex-col'>
